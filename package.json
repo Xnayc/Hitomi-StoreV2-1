@@ -1,7 +1,7 @@
 {
-  "name": "bot-store",
+  "name": "natccy bot",
   "version": "1.0.0",
-  "description": "Simple whatsapp bot with multi device.",
+  "description": "sewa? ketik .owner.",
   "main": "index.js",
   "directories": {
     "lib": "lib"
